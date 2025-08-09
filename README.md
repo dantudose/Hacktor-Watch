@@ -66,6 +66,8 @@ The watch supports Arduino and ESP-IDF programming. For a working NuttX port, ch
 
 ## License Information
 
+HW design by <a href="https://github.com/radupascale">Radu Pascale</a>.
+
 This product is _**open source**_! 
 
 Please review the LICENSE file for license information. 
