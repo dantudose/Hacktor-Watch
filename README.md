@@ -1,5 +1,5 @@
 # Hacktor-Watch
-Open hardware &amp; software smartwatch
+An open hardware &amp; software smartwatch
 
 ## Hardware Diagram &amp; features
 
