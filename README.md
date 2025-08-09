@@ -21,6 +21,11 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 * 200mAh LiPo battery
 * USB-C connector
 
+<div id="cover">
+  <img src="https://github.com/dantudose/PM-Board/blob/main/Images/](https://github.com/dantudose/Hacktor-Watch/blob/main/Images/exploded_view.png" height="350"/>
+  <img src="https://github.com/dantudose/PM-Board/blob/main/Images/](https://github.com/dantudose/Hacktor-Watch/blob/main/Images/side_assy.png" height="350"/> 
+</div>
+
 ## Repository Contents
 
 * **/Hardware** - Schematic and hardware design files (Fusion360 & KiCAD)
