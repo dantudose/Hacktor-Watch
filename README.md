@@ -9,6 +9,8 @@ A stylish open hardware &amp; software smartwatch, designed by makers for makers
 
 <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/Hacktor Watch 2.0.jpg" height="500"/>
 
+<a href="https://docs.google.com/drawings/d/1u0_o-W6L3w2xveMWQQGLrzZhusZ90oDN8ES3exkrWA4/edit?usp=sharing">Hardware diagram.</a>
+
 This is a open-hardware wearable based on the ESP32 microcontroller. It is fully Arduino-compatible and it comes with the following features:
 * <a href="https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf">ESP32-S3</a> processor (dual-core 240MHz, WiFI, BLE, 512kB SRAM and 4MB Flash)
 * <a href="https://www.aliexpress.com/item/1005007293053050.html">GC9A01</a> 1.28 inch color LCD, 240 x 240 pixels with CST816T capacitive touch screen
