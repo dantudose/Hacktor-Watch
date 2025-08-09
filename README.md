@@ -19,7 +19,7 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
 * Dual RT6160 DC/DC PMIC (main power and peripherals)
 * BQ24040 LiPo charger
 * 200mAh LiPo battery
-* USB-C connector
+* USB-C connector for charging and data
 
 <div id="cover">
   <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/perspective2.png" height="300"/> 
