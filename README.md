@@ -1,5 +1,5 @@
 # Hacktor-Watch
-An open hardware &amp; software smartwatch
+A stylish open hardware &amp; software smartwatch, built for makers.
 
 <div style='float:center'>
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/20250808_133324.jpg" height="350"/> 
