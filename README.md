@@ -10,18 +10,17 @@ A stylish open hardware &amp; software smartwatch, designed by makers for makers
 <img src="https://github.com/dantudose/Hacktor-Watch/blob/main/Images/Hacktor Watch 2.0.jpg" height="500"/>
 
 This is a open-hardware wearable based on the ESP32 microcontroller. It is fully Arduino-compatible and it comes with the following features:
-
 * <a href="https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf">ESP32-S3</a> processor (dual-core 240MHz, WiFI, BLE, 512kB SRAM and 4MB Flash)
-* GC9A01 1.28 inch color LCD, 240 x 240 pixels withc capacitive touch screen
-* LSM6DSLTR 6-axis inertial sensor (accelerometer and gyroscope)
-* W25Q256JVEIQ 32MB external SPI Flash
-* ESP-PSRAM64H 8MB PSRAM
-* DRV2605YZFR haptic driver
-* LMD2718T261-OA1 microphone
-* MAX98357 I2S audio amplifier and speaker
-* MAX17048 fuel gauge
-* Dual RT6160 DC/DC PMIC (main power and peripherals)
-* BQ24040 LiPo charger
+* <a href="https://www.aliexpress.com/item/1005007293053050.html">GC9A01</a> 1.28 inch color LCD, 240 x 240 pixels with CST816T capacitive touch screen
+* <a href="https://www.st.com/en/mems-and-sensors/lsm6dsl.html">LSM6DSLTR</a> 6-axis inertial sensor (accelerometer and gyroscope)
+* <a href="https://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=en&partNo=W25Q256JV">W25Q256JVEIQ</a> 32MB external SPI Flash
+* <a href="https://cdn-shop.adafruit.com/product-files/4677/4677_esp-psram64_esp-psram64h_datasheet_en.pdf">ESP-PSRAM64H</a> 8MB PSRAM
+* <a href="https://www.ti.com/product/DRV2605/part-details/DRV2605YZFR">DRV2605YZFR</a> haptic driver
+* <a href="https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586212537977618432">LMD2718T261-OA1</a> microphone
+* <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/max98357a-max98357b.pdf">MAX98357</a> I2S audio amplifier and speaker
+* <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/max17048-max17049.pdf">MAX17048</a> fuel gauge
+* Dual <a href="https://www.richtek.com/m/Products/Switching%20Regulators/Buck-Boost%20Converter/RT6160A?sc_lang=en">RT6160</a> DC/DC PMIC (main power and peripherals)
+* <a href="https://www.ti.com/lit/ds/symlink/bq24040.pdf?ts=1754753213993">BQ24040</a> LiPo charger
 * 200mAh LiPo battery
 * USB-C connector for charging and data
 
