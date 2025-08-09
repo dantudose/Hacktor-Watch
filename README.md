@@ -11,7 +11,7 @@ A stylish open hardware &amp; software smartwatch, designed by makers for makers
 
 This is a open-hardware wearable based on the ESP32 microcontroller. It is fully Arduino-compatible and it comes with the following features:
 
-* ESP32-S3 processor (dual-core 240MHz, WiFI, BLE, 512kB SRAM and 4MB Flash)
+* <a href="https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf">ESP32-S3</a> processor (dual-core 240MHz, WiFI, BLE, 512kB SRAM and 4MB Flash)
 * GC9A01 1.28 inch color LCD, 240 x 240 pixels withc capacitive touch screen
 * LSM6DSLTR 6-axis inertial sensor (accelerometer and gyroscope)
 * W25Q256JVEIQ 32MB external SPI Flash
