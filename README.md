@@ -61,6 +61,8 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/hacktor_buttons.jpg" height="350"/> 
   </div>
 
+## Software Support
+The watch supports Arduino and ESP-IDF programming. For a working NuttX port, check out <a href="https://github.com/radupascale">Radu Pascale's</a> github page. 
 
 ## License Information
 
