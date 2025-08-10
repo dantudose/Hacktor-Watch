@@ -1,7 +1,7 @@
 # Hacktor-Watch 2.0
 
-Hacktor Watch — Open-source power for apps, AI, and fearless hardware hacking.
-Built around the powerful dual-core ESP32-S3 with Wi-Fi and Bluetooth, Hacktor Watch 2.0 gives developers, makers, and tinkerers a wearable platform that’s ready for anything. Its 1.28" GC9A01 LCD with capacitive touch puts your custom interfaces at your fingertips, while a 6-axis IMU, microphone, speaker, haptic driver, and fuel gauge open the door to AI/ML projects, real-time sensing, and interactive applications. With 32MB SPI Flash, 8MB PSRAM, and a 200mAh LiPo battery charged via USB-C, you’ll have the resources to run apps, experiment with neural networks, or integrate it into larger IoT systems. Designed with open hardware and software support for Arduino, ESP-IDF, NuttX, FreeRTOS and Zephyr, it’s the smartwatch that doesn’t just tell time — it’s a wearable dev kit for your boldest ideas.
+Open-source power for apps, AI, and fearless hardware hacking.
+Why just wear a smartwatch when you can hack it? Hacktor Watch 2.0 is your open-source playground on the wrist — powered by the dual-core ESP32-S3 with Wi-Fi and Bluetooth, rocking a bright 1.28" touch display, and loaded with goodies like a 6-axis IMU, mic, speaker, haptics, and fuel gauge. You get 32MB flash, 8MB PSRAM, USB-C charging, and a 200mAh LiPo to keep your creations running. Whether you’re building custom apps in Arduino or ESP-IDF, training tiny AI models, or turning it into a wearable IoT gadget, this is a smartwatch that’s down for any experiment you throw at it. And yes — it’s also sleek and stylish, so your wrist looks as good as your code.
 
 <div style='float:center'>
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/20250808_133324.jpg" height="350"/> 
