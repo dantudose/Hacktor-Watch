@@ -1,6 +1,9 @@
 # Hacktor-Watch
 A stylish open hardware &amp; software smartwatch, designed by makers for makers.
 
+Hacktor Watch 2.0 — Open-source power for apps, AI, and fearless hardware hacking.
+Built around the powerful dual-core ESP32-S3 with Wi-Fi and Bluetooth, Hacktor Watch 2.0 gives developers, makers, and tinkerers a wearable platform that’s ready for anything. Its 1.28" GC9A01 LCD with capacitive touch puts your custom interfaces at your fingertips, while a 6-axis IMU, microphone, speaker, haptic driver, and fuel gauge open the door to AI/ML projects, real-time sensing, and interactive applications. With 32MB SPI Flash, 8MB PSRAM, and a 200mAh LiPo battery charged via USB-C, you’ll have the resources to run apps, experiment with neural networks, or integrate it into larger IoT systems. Designed with open hardware and software support for Arduino, ESP-IDF, NuttX, FreeRTOS and Zephyr, it’s the smartwatch that doesn’t just tell time — it’s a wearable dev kit for your boldest ideas.
+
 <div style='float:center'>
   <img src="https://github.com/dantudose/hacktor-watch/blob/main/Images/20250808_133324.jpg" height="350"/> 
   </div>
@@ -64,7 +67,7 @@ This is a open-hardware wearable based on the ESP32 microcontroller. It is fully
   </div>
 
 ## Software Support
-The watch supports Arduino and ESP-IDF programming. For a working NuttX port, check out <a href="https://github.com/radupascale">Radu Pascale's</a> github page. 
+The watch supports Arduino and ESP-IDF programming. For a working NuttX port, check out <a href="https://github.com/radupascale/hectorwatch-nuttx">Radu Pascale's</a> repo. 
 
 ## License Information
 
